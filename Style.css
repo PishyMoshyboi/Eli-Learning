@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Lilfucker{
+    margin-left: 50px;
+}
+.container{
+    max-width: 800px;
+    margin-left: auto;  
+    margin-right: auto;
+    border: 2px solid green;
+}
+.container h2{
+    border-bottom: 2px dashed green;
+    padding-bottom: 15px;
+}
